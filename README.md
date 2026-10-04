@@ -4,9 +4,6 @@ Hi 👋, I'm Deekshith D<br>I'm a student
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deekshithd18) 
-
-
-## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deekshiithd18) 
 
 # 💻 Tech Stack:
